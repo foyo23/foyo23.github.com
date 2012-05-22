@@ -1,3 +1,5 @@
+这是foyo23.github.com的博客
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -40,3 +42,6 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+=======
+foyo23.github.com
+
