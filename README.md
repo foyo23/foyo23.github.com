@@ -1,4 +1,5 @@
 这是foyo23.github.com的博客
+see http://jekyllbootstrap.com/
 
 # Jekyll-Bootstrap
 
